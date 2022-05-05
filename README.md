@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-  Capítulo II - trilha de Node.js do Ignite da Rocketseat. Criando a API Rentx
+  Trilha de Node.js do Ignite da Rocketseat. Criando a API Rentx
 </h1>
 
 ## Sobre o projeto
